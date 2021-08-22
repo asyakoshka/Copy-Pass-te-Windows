@@ -1,2 +1,2 @@
-# copy-pass-te
+# Copy-Pass-te
 Проект для облегчения жизни
