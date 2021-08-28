@@ -1,0 +1,5 @@
+.idea
+__pycache__
+__test__
+__python
+*.txt
