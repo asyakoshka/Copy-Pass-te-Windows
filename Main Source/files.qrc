@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="topButtons">
+    <file>Resources/icons/lock.png</file>
+    <file>Resources/icons/plus.png</file>
+    <file>Resources/icons/check.png</file>
+    <file>Resources/icons/logout.png</file>
+    <file>Resources/icons/settings.png</file>
+    <file>Resources/icons/close.png</file>
+    <file>Resources/icons/minimize.png</file>
+  </qresource>
+</RCC>
