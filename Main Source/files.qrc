@@ -1,5 +1,9 @@
 <RCC>
   <qresource prefix="topButtons">
+    <file>Resources/icons/arrow-bot.png</file>
+    <file>Resources/icons/arrow-top.png</file>
+    <file>Resources/icons/arrow-left.png</file>
+    <file>Resources/icons/arrow-right.png</file>
     <file>Resources/icons/lock.png</file>
     <file>Resources/icons/plus.png</file>
     <file>Resources/icons/check.png</file>
